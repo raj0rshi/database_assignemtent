@@ -1,0 +1,6 @@
+Name	 Total Person	 Average H-Index
+Jie Wu	22	26.59090909090909
+Wei Zhang	113	13.513274336283185
+Slobodan Vucetic	1	28.0
+Qiang Zhang	32	16.5625
+Krishan Kant	12	5.666666666666667

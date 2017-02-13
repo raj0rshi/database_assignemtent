@@ -1,0 +1,90 @@
+------------------
+Name:Krishna Kant
+Email:
+Position: professor
+Affiliation: Temple University
+Homepage: http://www.kkant.net/
+h index: 25
+Area of Interest:Networking, Systems, Security
+------------------
+------------------
+Name:Krishna Kant
+Email:
+Position: null
+Affiliation: Flinders University
+Homepage: null
+h index: 9
+Area of Interest:Nano materials, microfluidics
+------------------
+------------------
+Name:Krishna Kant Singh
+Email:
+Position: professor
+Affiliation: null
+Homepage: null
+h index: 8
+Area of Interest:Image Processing, Remote Sensing, Earthquake Engineering
+------------------
+------------------
+Name:Krishan kant Singh
+Email:
+Position: scientist
+Affiliation: null
+Homepage: https://www.researchgate.net/profile/Krishan_Kant_Singh/?ev=hdr_xprf
+h index: 10
+Area of Interest:polymer based application and nano technology
+------------------
+------------------
+Name:Krishna Kant
+Email:
+Position: professor
+Affiliation: null
+Homepage: null
+h index: 7
+Area of Interest:Microprocessors and Controllers, Embedded Systems, Industrial Automation, Bio Informatics, Wireless Sensor Networks
+------------------
+------------------
+Name:Prof Krishan Kant Lavania
+Email:
+Position: null
+Affiliation: null
+Homepage: null
+h index: 3
+Area of Interest:
+------------------
+------------------
+Name:Krishan Kant
+Email:
+Position: null
+Affiliation: null
+Homepage: http://in.linkedin.com/pub/krishan-kant/23/316/3
+h index: 3
+Area of Interest:Power Electronics, Electrical Machines, Renewable Energy Conversion Systems, Control of Power & Energy conversion
+------------------
+------------------
+Name:Krishan Kant Yadav
+Email:
+Position: null
+Affiliation: null
+Homepage: null
+h index: 2
+Area of Interest:Data Mining, Software engineering, Computer Networks
+------------------
+------------------
+Name:Dr. KRISHNA KANT TRIPATHI
+Email:
+Position: assistant professor
+Affiliation: Mizoram University
+Homepage: null
+h index: 1
+Area of Interest:Community Participation in Education, Decentralized Management of Educatiin, Language Teaching, Teacher Education, Educational T
+------------------
+------------------
+Name:Krishna kant Sharma
+Email:
+Position: null
+Affiliation: null
+Homepage: null
+h index: 0
+Area of Interest:history and archaeology, culture
+------------------
